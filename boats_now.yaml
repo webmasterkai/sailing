@@ -1,0 +1,21 @@
+attributes:
+  - Diesel. Well cared for.
+  - Modified fin keel
+  - Tiller for less maintenance and easier self steering vane
+  - Skeg hung rudder
+  - PHRF < 200
+  - ballast > 40% of displacement
+  - DLR 300
+boats:
+  -
+  name: Contessa 32
+  length: 32
+  design:
+    - David Sadler
+    - Jeremy Rogers
+  -
+  name: Valiant 32
+  length: 32
+  design: Bob Perry
+  -
+  name: Freedom 32
